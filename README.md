@@ -1,6 +1,6 @@
 # arXiv Paper Agent
 
-A Chromium browser extension for reading arXiv papers in context. It puts focused tools next to selected text and offers paper-level actions for outlining, citation exploration, and reproduction planning.
+An LLM-assisted Chromium extension for contextual arXiv reading, citation exploration, and reproduction planning. It puts focused tools next to selected text and offers paper-level actions for outlining and following references.
 
 **Project type:** original engineering prototype. This repository does not claim a new model, a paper reproduction, or measured research gains.
 
